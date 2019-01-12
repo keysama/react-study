@@ -23,7 +23,7 @@
     daily ： 日记
 ```
 -------------------
-##开始
+## 开始
 ```
     1.  git clone https://github.com/keysama/react-study.git
     2.  cd project
